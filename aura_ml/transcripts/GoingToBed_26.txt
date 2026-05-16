@@ -1,0 +1,6 @@
+open the door
+enter the room
+walk to the bed
+sit down
+turn on the fan 
+lie down on bed

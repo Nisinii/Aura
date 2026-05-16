@@ -1,0 +1,19 @@
+{
+    "Open the laptop": 0,
+    "Sit at the table": 1,
+    "Walk to the table": 2,
+    "enter the room": 3,
+    "get up from bed": 4,
+    "leave the room": 5,
+    "lie down on bed": 6,
+    "open the door": 7,
+    "plug the charger": 8,
+    "sit down": 9,
+    "sit on bed": 10,
+    "swings legs off the bed": 11,
+    "turn off the fan": 12,
+    "turn on the fan": 13,
+    "turn on the laptop": 14,
+    "walk to the bed": 15,
+    "walk to the door": 16
+}
